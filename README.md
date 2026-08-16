@@ -8,7 +8,7 @@
 | **Module Name** | Information Systems 3D |
 | **Assessment** | ICE Task 2 - Structured Backend API Development with Express |
 | **Student Name** | Musa Janda |
-| **Student Number** | [Your Student Number] |
+| **Student Number** | St10456109 |
 | **Submission Date** | 14 August 2026 |
 
 ---
@@ -36,7 +36,7 @@ This project is a structured backend RESTful API built with **Express.js** for m
 
 **1. Clone the repository**
 ```bash
-git clone [your-github-repo-url]
+git clone (https://github.com/MusaJanda/insy7314ICETASK2.git)
 cd insy7314-ice2
 
 **2. Install dependencies**
